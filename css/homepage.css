@@ -1,0 +1,15 @@
+body {
+  height: 100%;
+  background-image: url("../img/seattle.gif.gif");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /*background-color: #888;*/
+}
+body {
+  color: #fff;
+  text-align: center;
+  text-shadow: .0rem .05rem .1rem rgba(0,0,0,.5);
+}

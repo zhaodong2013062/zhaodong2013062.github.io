@@ -32,7 +32,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #3b3d42;
+  background-image: url("img/seattle.gif.gif");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -42,7 +42,7 @@ body {
 }
 body {
   color: #fff;
-  text-align: left;
+  text-align: center;
   text-shadow: .0rem .05rem .1rem rgba(0,0,0,.5);
 }
 body h1 a{
@@ -131,9 +131,6 @@ body h1 a{
   font-weight: bold;
 }
 
-.profile {
-  max-width: 30%;
-}
 
 /*
  * Footer
