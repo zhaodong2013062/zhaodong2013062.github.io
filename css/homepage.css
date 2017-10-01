@@ -15,9 +15,15 @@ body {
 }
 
 
-.profile {
-  max-width: 25%;
-  border-size: 4px;
+@media (min-width: 30em) {
+    .profile {
+      max-width: 60%;
+    }
+}
+@media (min-width: 75em) {
+    .profile {
+      max-width: 25%;
+    }
 }
 
 .cover-heading {
