@@ -3,7 +3,9 @@
  */
 
 /* Links */
-a,
+a {
+  color: #87a7db
+}
 a:focus,
 a:hover {
   color: #fff;
@@ -39,12 +41,6 @@ body {
   color: #fff;
   text-align: center;
   text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
-}
-h2 {
-  font-style: 
-}
-a {
-  color: #87a7db;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
