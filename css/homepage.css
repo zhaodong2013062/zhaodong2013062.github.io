@@ -13,3 +13,13 @@ body {
   text-align: center;
   text-shadow: .0rem .05rem .1rem rgba(0,0,0,.5);
 }
+
+
+.profile {
+  max-width: 25%;
+  border-size: 4px;
+}
+
+.cover-heading {
+    padding-top: 0.7rem;
+}
