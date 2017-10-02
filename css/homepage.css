@@ -14,10 +14,12 @@ body {
   text-shadow: .0rem .05rem .1rem rgba(0,0,0,.5);
 }
 
-
+.profile {
+  max-width: 50%;
+}
 @media (min-width: 30em) {
     .profile {
-      max-width: 60%;
+      max-width: 40%;
     }
 }
 @media (min-width: 75em) {
